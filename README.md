@@ -2,6 +2,10 @@
 
 Modern hospitality SaaS platform for restaurants, cafés and hospitality businesses.
 
+## Preview
+
+![Preview](./preview.png)
+
 ---
 
 ## Features
